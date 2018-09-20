@@ -141,13 +141,27 @@
           "footer_newsletter_subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
           "show_payment_icons": false
         }
+      },
+      "1537464277949": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "",
+          "image_size": "medium",
+          "show_quantity_selector": false,
+          "show_variant_labels": true,
+          "show_vendor": false,
+          "enable_zoom": true,
+          "enable_payment_button": false,
+          "show_share_buttons": true
+        }
       }
     },
     "content_for_index": [
       "hero",
       "featured-collections",
       "feature-row",
-      "slideshow"
+      "slideshow",
+      "1537464277949"
     ]
   },
   "presets": {
