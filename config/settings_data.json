@@ -124,11 +124,11 @@
       "feature-row": {
         "type": "feature-row",
         "settings": {
-          "image": "",
+          "image": "shopify:\/\/shop_images\/brightly-iced-cake.jpg",
           "layout": "left",
-          "title": "Image with text",
-          "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-          "button_label": "",
+          "title": "Classic Birthday Cakes",
+          "text": "<p>These simple cakes will brighten up any birthday.<\/p>\n<p>Available in 32 different flavours there's one that everyone will love.<\/p>\n<p>We use only the most high-quality ingredients so this is an indulgence you can feel good about.&nbsp;<\/p>",
+          "button_label": "Order",
           "button_link": ""
         }
       },
