@@ -1,9 +1,9 @@
 {
   "current": {
-    "color_text": "#2687c8",
+    "color_text": "#b326c8",
     "color_body_text": "#69727b",
     "color_sale_text": "#557b97",
-    "color_button": "#333060",
+    "color_button": "#333060"
     "color_button_text": "#ffffff",
     "color_small_button_text_border": "#3d4246",
     "color_text_field_text": "#000000",
@@ -65,7 +65,7 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "image": "",
+          "image": "shopify:\/\/shop_images\/cute-pug-smelling-pumpkin.jpg",
           "alignment": "center",
           "title": "Image with text overlay",
           "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
